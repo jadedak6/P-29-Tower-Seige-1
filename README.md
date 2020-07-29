@@ -1,2 +1,2 @@
-# P-29-Tower-Seige-1
-This is the first stage of Tower Seige project.
+# p5.play-boilerplate
+Boiler plate for p5.play
